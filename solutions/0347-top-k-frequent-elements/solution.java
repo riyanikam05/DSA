@@ -16,12 +16,13 @@ class Solution {
         int[] result = new int [k];
         int index = 0;
 
-        for (int count = nums.length; count >= 1 && index < k; count--){
+        for (int count = nums.length; count >= 1 && index < k; count--){  //Reverse loop since counts need to be placed in descending order. count is freq.
             if (bucket.get(count) != null) {
                 for (int num : bucket.get(count)) {
-                    result [index++] = num;
-                    if (index == k)
-                        break;
+                    result [index++] = num;   
+                //Optional if statement
+                if (index == k)
+                    break;    
                 }
             }
         }        
