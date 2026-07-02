@@ -13,14 +13,4 @@ All accepted code files are saved within the folder hierarchy below:
 ## 🛠️ Language Spoken
 - Java ☕
 
-## 📈 LeetCode Metrics
-
-### Light Theme
-![LeetCode Stats](https://vercel.app)
-
-### Dark Theme
-![LeetCode Stats](https://vercel.app)
-
-
-
 ---
