@@ -13,4 +13,8 @@ All accepted code files are saved within the folder hierarchy below:
 ## 🛠️ Language Spoken
 - Java ☕
 
+## 📈 LeetCode Metrics
+![LeetCode Stats](https://herokuapp.com)
+
+
 ---
