@@ -14,7 +14,13 @@ All accepted code files are saved within the folder hierarchy below:
 - Java ☕
 
 ## 📈 LeetCode Metrics
-![LeetCode Stats](https://herokuapp.com)
+
+### Light Theme
+![LeetCode Stats](https://vercel.app)
+
+### Dark Theme
+![LeetCode Stats](https://vercel.app)
+
 
 
 ---
