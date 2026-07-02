@@ -10,7 +10,7 @@ Welcome to my personal repository dedicated to mastering Data Structures and Alg
 All accepted code files are saved within the folder hierarchy below:
 * `solutions/` — Contains completed coding problem files named cleanly by their unique LeetCode identifiers.
 
-## 🛠️ Languages Spoken
+## 🛠️ Language Spoken
 - Java ☕
 
 ---
